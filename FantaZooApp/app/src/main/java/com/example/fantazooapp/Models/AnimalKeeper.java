@@ -1,2 +1,4 @@
-package com.example.fantazooapp.Models;public class AnimalKeeper {
+package com.example.fantazooapp.Models;
+
+public class AnimalKeeper {
 }

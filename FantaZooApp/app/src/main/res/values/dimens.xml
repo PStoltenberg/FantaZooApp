@@ -2,4 +2,5 @@
 <resources>
     <dimen name="title">28sp</dimen>
     <dimen name="btn_text">20sp</dimen>
+    <dimen name="defaultText">20sp</dimen>
 </resources>
